@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ahmad 
 
-<!--
-**ahmadali172/ahmadali172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior AI Automation Engineer based in Pakistan.
 
-Here are some ideas to get you started:
+I build workflows and tools that use LLMs to automate repetitive work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- LLM APIs (OpenAI, Anthropic)
+- Automation tools (n8n, Make)
+- Git & GitHub
+
+## Featured Projects
+Coming soon! I'm building my first projects now.
+
+## Contact
+- Email: ahmad.ali.dev.06@gmail.com
